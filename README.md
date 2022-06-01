@@ -55,7 +55,7 @@ Node.js Support
 ### The `-i` command is used to check the version
 ### The `-u` command is used to create a PR updating the version
 
-### For example the command ```node .\commands.js -i -u input.csv web-vitals@3.9.0 it gives the following result``` will give the following result-
+### For example the command ```node .\commands.js -i -u input.csv web-vitals@3.9.0``` will give the following result-
   
 
 | Repo                          |                   Repository                     | version | version_satisfied |                      update_pr                      |
