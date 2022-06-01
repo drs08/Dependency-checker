@@ -68,7 +68,7 @@ program
              * Check if it exists,if not print N/A and go to next csv entry
              * @type {string|string}
              */
-            data[i][2] = packageJSON.dependencies[req_ver[0]] ? packageJSON.dependencies[req_ver[0]].replace('^', '').replace('^', '') : "N/A";
+            data[i][2] = packageJSON.dependencies[req_ver[0]] ? packageJSON.dependencies[req_ver[0]].replaceAll('^', '').replaceAll('^', '') : "N/A";
             if (data[i][2] === 'N/A') {
                 data[i][3] = 'false';
                 table.push(data[i]);
@@ -80,8 +80,8 @@ program
              * This is why we need this format for the package <name>@<x.y.z>
              * @type {number}
              */
-            var k = parseInt(req_ver[1].replace('.', ''));
-            var l = parseInt(packageJSON.dependencies[req_ver[0]].replace('^', '').replace('.', ''));
+            var k = parseInt(req_ver[1].replaceAll('.', ''));
+            var l = parseInt(packageJSON.dependencies[req_ver[0]].replaceAll('^', '').replaceAll('.', ''));
             if (k <= l) {
 
                 data[i][3] = "true";
