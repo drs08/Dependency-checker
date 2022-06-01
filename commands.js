@@ -8,7 +8,7 @@ const {Octokit} = require("@octokit/core");
 const {createPullRequest} = require("octokit-plugin-create-pull-request");
 const MyOctokit = Octokit.plugin(createPullRequest);
 
-const TOKEN = "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";
+const TOKEN = "Your_Token";
 const octokit = new MyOctokit({
     auth: TOKEN,
 });
