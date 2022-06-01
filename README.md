@@ -28,8 +28,8 @@ Node.js Support
 -Copy the generated token
    
 ### Clone the repo
-   sh
-   git clone [https://github.com/dyte-submissions/dyte-vit-2022-drs08.git](https://github.com/dyte-submissions/dyte-vit-2022-drs08.git)
+   ```sh```
+   ```git clone [https://github.com/dyte-submissions/dyte-vit-2022-drs08.git]```(https://github.com/dyte-submissions/dyte-vit-2022-drs08.git)
    
 ### Install NPM packages
    run `npm i` in the terminal to install all the required packages
