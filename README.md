@@ -45,9 +45,12 @@ Node.js Support
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### To check the Version Package
+ ```node .\commands.js -i input.csv package-name@package-version```
+ 
+### To create a PR updating the version
 
-For more examples, please refer to the [Documentation](https://example.com)
+```node .\commands.js -i -u input.csv package-name@package-version```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -55,9 +58,7 @@ For more examples, please refer to the [Documentation](https://example.com)
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Devarsh Shah - [@LinkedIn_handle](https://www.linkedin.com/in/devarsh-shah-075720206/)) - devarshshah08@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
