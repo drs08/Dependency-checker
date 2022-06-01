@@ -52,13 +52,16 @@ Node.js Support
 
 ```node .\commands.js -i -u input.csv package-name@package-version```
 
+### The `-i` command is used to check the version
+### The `-u` command is used to create a PR updating the version
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
 ## Contact
 
-Devarsh Shah - [@LinkedIn_handle](https://www.linkedin.com/in/devarsh-shah-075720206/)) - devarshshah08@gmail.com
+Devarsh Shah - [@LinkedIn_handle](https://www.linkedin.com/in/devarsh-shah-075720206/) - devarshshah08@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
