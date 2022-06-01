@@ -12,14 +12,19 @@ Given a list of Github repositories, assuming all of them are node js projects w
 
 Node.js Support 
   
-### Installation
+## Installation
 
-1. Get a free Github Token by following steps:
+# Get a free Github Token by following steps:
 -Login to your github account
+
 -Go to your account settings
+
 -Select Developer options/Personal access tokens [https://github.com/settings/tokens](https://github.com/settings/tokens)
+
 -Generate new token (Give some name and select all the scopes)
+
 -The token is generated
+
 -Copy the generated token
    
 2. Clone the repo
