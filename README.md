@@ -34,10 +34,9 @@ Node.js Support
 ### Install NPM packages
    run `npm i` in the terminal to install all the required packages
    
-### Enter your Generated token in `config.js`
-   js
-   const API_KEY = 'ENTER YOUR API';
+### Enter your Generated token in `commands.js`
    
+   ```const TOKEN = "Your_Token";```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
