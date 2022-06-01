@@ -14,7 +14,7 @@ Node.js Support
   
 ## Installation
 
-# Get a free Github Token by following steps:
+### Get a free Github Token by following steps:
 -Login to your github account
 
 -Go to your account settings
@@ -27,15 +27,14 @@ Node.js Support
 
 -Copy the generated token
    
-2. Clone the repo
+### Clone the repo
    sh
    git clone [https://github.com/github_username/repo_name.git](https://github.com/dyte-submissions/dyte-vit-2022-drs08.git)
    
-3. Install NPM packages
-   sh
-   npm install
+### Install NPM packages
+   run `npm i` in the terminal to install all the required packages
    
-4. Enter your API in `config.js`
+### Enter your Generated token in `config.js`
    js
    const API_KEY = 'ENTER YOUR API';
    
