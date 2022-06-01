@@ -15,12 +15,12 @@ Node.js Support
 ### Installation
 
 1. Get a free Github Token by following steps:
-   -Login to your github account
-   -Go to your account settings
-   -Select Developer options/Personal access tokens [https://github.com/settings/tokens](https://github.com/settings/tokens)
-   -Generate new token (Give some name and select all the scopes)
-   -The token is generated
-   -Copy the generated token
+-Login to your github account
+-Go to your account settings
+-Select Developer options/Personal access tokens [https://github.com/settings/tokens](https://github.com/settings/tokens)
+-Generate new token (Give some name and select all the scopes)
+-The token is generated
+-Copy the generated token
    
 2. Clone the repo
    sh
