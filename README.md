@@ -19,11 +19,12 @@ Node.js Support
    -Go to your account settings
    -Select Developer options/Personal access tokens [https://github.com/settings/tokens](https://github.com/settings/tokens)
    -Generate new token (Give some name and select all the scopes)
-   -The token is generated copy that
+   -The token is generated
+   -Copy the generated token
    
 2. Clone the repo
    sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone [https://github.com/github_username/repo_name.git](https://github.com/dyte-submissions/dyte-vit-2022-drs08.git)
    
 3. Install NPM packages
    sh
