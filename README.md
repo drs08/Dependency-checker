@@ -29,7 +29,7 @@ Node.js Support
    
 ### Clone the repo
    ```sh```
-   ```git clone [https://github.com/dyte-submissions/dyte-vit-2022-drs08.git]```(https://github.com/dyte-submissions/dyte-vit-2022-drs08.git)
+   ```git clone [https://github.com/dyte-submissions/Dependency-checker.git]```(https://github.com/dyte-submissions/Dependency-checker.git)
    
 ### Install NPM packages
    run `npm i` in the terminal to install all the required packages
